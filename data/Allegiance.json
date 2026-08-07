@@ -1,0 +1,16 @@
+{
+  "id": 21,
+  "name": "Allegiance",
+  "author": "nikrodox",
+  "creators": [],
+  "verifier": "Doggo136",
+  "verification": "",
+  "percentToQualify": 100,
+  "records": [
+    {
+      "user": "SnassGD",
+      "percent": 100,
+      "hz": 360
+    }
+  ]
+}
