@@ -1,0 +1,16 @@
+{
+  "id": 27,
+  "name": "Sweater Weather",
+  "author": "SnassGD",
+  "creators": [],
+  "verifier": "SnassGD",
+  "verification": "",
+  "percentToQualify": 100,
+  "records": [
+    {
+      "user": "Doggo136",
+      "percent": 100,
+      "hz": 360
+    }
+  ]
+}
