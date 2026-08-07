@@ -1,0 +1,21 @@
+{
+  "id": 29,
+  "name": "acu",
+  "author": "neigefeu",
+  "creators": [],
+  "verifier": "Doggo136",
+  "verification": "",
+  "percentToQualify": 100,
+  "records": [
+    {
+      "user": "MacieY",
+      "percent": 100,
+      "hz": 360
+    },
+    {
+      "user": "SnassGD",
+      "percent": 100,
+      "hz": 360
+    }
+  ]
+}
