@@ -2,14 +2,14 @@
   "id": 1,
   "name": "Moment",
   "author": "lexycat",
-  "creators": [],
-  "verifier": "Snas",
+  "creators": "icedcave",
+  "verifier": "Doggo136",
   "verification": "https://youtu.be/NuGkR0tKaQc?si=kXHum4CL0ecPlqmG",
   "percentToQualify": 100,
   "records": [
     {
       "user": "Snas",
-      "link": "https://www.youtube.com",
+      "link": "https://youtu.be/UvIJwto_kb0",
       "percent": 100,
       "hz": 240
     }
