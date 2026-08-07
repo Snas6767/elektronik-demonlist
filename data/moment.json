@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "name": "Moment",
+  "author": "lexycat",
+  "creators": [],
+  "verifier": "Snas",
+  "verification": "https://www.youtube.com",
+  "percentToQualify": 100,
+  "records": [
+    {
+      "user": "Snas",
+      "link": "https://www.youtube.com",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
+}
